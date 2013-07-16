@@ -1,0 +1,37 @@
+Neue Texte
+==========
+
+Maximilian Wendts
+Werkschau
+
+Definition von Werkschau: Veranstaltung, Schau, Ausstellung, die einen Überblick über das Gesamtwerk eines Künstlers, einer Künstlerin bietet.
+
+CREATIVE CODING:
+
+Früher oder später stellt sich jedem die Frage, ob es wohl eine Möglichkeit gibt, dreidimensionale Objekte direkt im dreidimensionalen Raum zu skizzieren. Mehr...
+
+Leistung: Vom Finden der Fragestellung bis zur Programmierung der Kinect Applikation.
+
+Aus einer interaktiven Medieninstallation wird ein NUI Spiel. Getreu dem Motto "Be there. Be square." schafft es "Silhouetris" in zahlreichen Blog-Artikel erwähnt zu werden. Unter anderem TechCrunch, Engadget (DE) und Curiosity Counts ließen es sich nicht nehmen darüber zu berichten. Wie es wirklich ist zu spielen, sollte man am besten die kleinen Besucher des cinekid Festivals in Amsterdam fragen. Mehr...
+
+Leistung: Ein Hälfte des Teams hinter der Kinect Applikation.
+
+WEB DEVELOPMENT:
+
+Jedes Jahr veranstaltet die DBBL ein Tunier bei dem alle Teams der 1. Damen Basketball Bundesliga ihr erstes Spiel der Saison bestreiten. Mehr...
+
+Leistung: Gestaltung und Programmierung der kompletten Seite.
+
+Wie gesagt, jedes Jahr veranstaltet die DBBL ein Tunier bei dem alle Teams der 1. Damen Basketball Bundesliga ihr erstes Spiel der Saison bestreiten. So auch im Jahre zuvor – 2009. Mehr...
+
+Leistung: Gestaltung und Programmierung der kompletten Seite.
+
+Die SC Freiburg Fangemeinschaft e.V. brauchte für ihre Nachwuchsfans dringend einen eigenen Fuchsbau im Netz. Der Name stand schon fest: Füchsleclub. Mehr...
+
+Leistung: Konzeption und Gestaltung eines Ansatzes.
+
+DESIGN:
+
+Um für die Spiele der Basketballer aus Freiburg zu werben musste unter anderem ein Plakat her.
+
+Leistung: Gestaltung des Plakats.
