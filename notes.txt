@@ -1,0 +1,44 @@
+Portfolio Webseite für mich als Webentwickler
+=============================================
+
+ABSTRACT:
+Portfolio Website mit bis zu 10 augewählten Arbeiten in den Kategorien 
+Web Development und Creative Coding.
+
+ZIELE:
+* Referenz für Bewerbungen
+* Spricht Creative (Coding) Agenturen an
+
+INHALTE:
+* Meine Wenigkeit
+* Meine Projekte
+* Mein Arbeitsverhältnis
+(* Mein Musikgeschmack)
+
+SEITENTYPEN:
+* Vorstellung
+* Projektübersicht
+* Projekt (mit Bildern und Beschreibungstext)
+* Kontakt (E-Mail, Twitter, Facebook ...)
+* Geplant: Blog (A list of the most recent thoughts about my experiences doing web development)
+
+ANFORDERUNGEN:
+* Responsive (mit Fokus auf gute Lesbarkeit)
+* Max. 200 KB Page Weight
+* Minimalistisch künstlerisches Design
+* Web Standards HTML5, CSS3 und JS.
+* Google Analytics
+* Kein CMS
+* Deutsche Sprache
+* Geplant: Englische Sprache
+
+NICE-TO-HAVE:
+* Arty Favicon
+* Arty Logo
+* SoundCloud Player
+
+HOSTING:
+* Github Pages
+
+OTHER PROJECT:
+* Common Interests - Stuff I care about and you might as well, so let's share it. Interesting cultural things like art, music, sports or side projects not necessarily related to web development. It features stuff that catch my attention as a human person.
