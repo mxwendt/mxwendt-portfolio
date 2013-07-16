@@ -1,0 +1,48 @@
+Texte
+=====
+
+VORSTELLUNG:
+Willkommen zum digitalen Portfolio von Maximilian Wendt.
+
+PROJEKTÜBERSICHT:
+* Webdevelopment Projekte.
+
+	PROJEKT: Season Opening 2010. Webseite für den Saisonauftakt der DBBL.
+	Die offizielle Webseite für die alljährliche Veranstaltung der deutschen Damenbasketball Bundesliga für die Saison 2010/2011.
+	Programmiert mit dem MVCS Framework robotlegs für AS3.0.
+	flash / as3.0 / robotlegs
+
+	PROJEKT: Füchsleclub. Konzeption der Webseite für die Nachwuchsfans des SC Freiburg Fanvereins.
+	Ein, in Zusammenarbeit mit der SC Freiburg Fangemeinschaft e.V., konzipierte Ansatz für die Internetpräsenz des Füchsleclubs des SC Freiburg.
+	Grafiken erstellt in Adobe Illustrator. Prototyp programmiert mit dem MVCS Framework robotlegs für AS3.0.
+
+	PROJEKT: Season Opening 2009. Webseite für den Saisonauftakt der DBBL.
+	Die offizielle Webseite für die alljährliche Veranstaltung der deutschen Damenbasketball Bundesliga für die Saison 2009/2010.
+	Umgesetzt mit Adobe Photoshop, Adobe Flash und AS3.0.
+	flash / as3.0
+
+* Creative Coding Projekte.
+
+	PROJEKT: Silhouetris. Tetris that stars you as the hero. (on-going project)
+	Prototyp eines NUI Spiels.
+	Silhouetris is the Tetris that stars you as the hero. Form all kinds of blocks with the silhouette of your body and puzzle them together in good old Tetris fashion. The crazier your shapes get the more points you receive. Keep in mind, the time is running against you.
+	Unter anderem gebloggt auf techcrunch.com , de.engadget.com und curiositycounts.com.
+	Ausgestellt auf dem internationalen Film-, Fernseh- und New Media Festival für Kinder und Jugendliche cinekid in Amsterdam im Herbst 2011.
+	Programmiert in C++ mit Hilfe the Creative Coding Library openframeworks und OpenNI von PrimeSense.
+	Mehr Infos unter silhouetris.com.
+	kinect / openni / openframeworks / c++
+
+	PROJEKT: Natural 3D Sketching. Applikation zur Skizzierung im dreidimensionalen Raum.
+	Bachelor Thesis an der Hochschule Furtwangen University.
+	Programmiert in C++ mit Hilfe the Creative Coding Library cinder und der KinectSDK von Windows.
+	kinect / kinectsdk / cinder / c++
+
+	PROJEKT: Virtual Marathon. Digitales Marathontraining.
+	Ergebnis des Projektsemesters an der Hochschule Furtwangen University.
+	Mit der Applikation virtualMarathon lässt sich die Funktionalität eines Laufbandes um Bild und Ton erweitern.
+	Ausgewählte Kurzstecken und zwei komplette Marathonläufe - München Marathon und Frankfurt Marathon - können im eigenen Tempo, zum Spaß oder als Training, nachgelaufen werden.
+	Programmiert mit MAX/MSP/Jitter und Java.
+	maxmspjitter / java
+
+KONTAKT:
+Am besten erreichen Sie mich via E-Mail unter ✉ mxwendt [at] gmail (dot) com.
